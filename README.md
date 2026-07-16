@@ -26,6 +26,17 @@ An adaptive homepage that changes based on stakeholder intent.
 - Vite
 - Tailwind CSS
 
+# Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+# Runs on:
+
+http://localhost:5173
+
 ## Author
 
 Ritik Gupta
